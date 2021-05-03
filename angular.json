@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IE"
+    }
+  },
+  "defaultProject": "IE",
+  "cli": {
+    "analytics": "0eab30e3-c770-4e4f-89e4-4b7d7558dea1"
+  }
 }
